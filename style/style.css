@@ -22,12 +22,13 @@ li{
 }
 
 .hero-container{
-    padding: 100px;
+    background: lightpink;
     display: flex;
     flex-direction: column;
     align-items: start;
+    flex-wrap: wrap;
     width: 400px;
-    margin-left: 280px;
+    margin-left: 380px;
 }
 
 .secondary-hero{
@@ -58,3 +59,10 @@ li{
     display: flex;
     gap: 20px;
 }
+
+.hero-image{
+    height: 340px;
+    width: 540px;
+}
+
+
