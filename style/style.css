@@ -22,7 +22,12 @@ li{
 }
 
 .hero-container{
+    padding: 100px;
     display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 400px;
+    margin-left: 280px;
 }
 
 .secondary-hero{
@@ -43,6 +48,10 @@ li{
 .button-sign{
     background-color: #3882f6;
     color: white;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 20px;
+    padding: 8px 40px;
 }
 
 .navbar{
