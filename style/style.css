@@ -21,14 +21,9 @@ li{
     color: #f9faf8;
 }
 
-.hero-container{
+.hero-container {
     background: lightpink;
     display: flex;
-    flex-direction: column;
-    align-items: start;
-    flex-wrap: wrap;
-    width: 400px;
-    margin-left: 380px;
 }
 
 .secondary-hero{
