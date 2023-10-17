@@ -19,6 +19,7 @@ li{
 .header-logo{
     font-size: 24px;
     color: #f9faf8;
+    margin-top: 10px;
 }
 
 .hero-container {
@@ -66,6 +67,5 @@ li{
     height: 250px;
     width: 500px;
 }
-
 
 
