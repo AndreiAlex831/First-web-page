@@ -76,13 +76,17 @@ li{
     color: #1f2937;"
 }
 
-.bt-one , .bt-two , .bt-three {
-    background-color: white;
+.bt-one , .bt-two , .bt-three, .bt-four {
+    justify-content: center;
     border-color: #3882f6;
     border-style: solid;
     padding: 70px;
     border-radius: 10px;
     margin-right: 20px;
+}
+.buttons-box{
+    display: flex;
+    justify-content: center;
 }
 
 
