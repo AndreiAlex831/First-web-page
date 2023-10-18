@@ -89,4 +89,9 @@ li{
     justify-content: center;
 }
 
+.random-text{
+    display: flex;
+    justify-content: center;
+}
+
 
