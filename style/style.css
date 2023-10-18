@@ -101,5 +101,27 @@ li{
     margin-right: 40px;
 }
 
+.quote-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    height: 400px;
+}
+
+.quote-text{
+    width: 600px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author{
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 
 
