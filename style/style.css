@@ -77,13 +77,12 @@ li{
 }
 
 .sq-one , .sq-two , .sq-three, .sq-four {
-    justify-content: center;
     border-color: #3882f6;
     border-style: solid;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border-radius: 10px;
-    margin-right: 20px;
+    margin-right: 40px;
 }
 .buttons-box{
     display: flex;
@@ -91,15 +90,15 @@ li{
 }
 
 .random-text{
-    height: 100px;
-    background: lightpink;
     display: flex;
     justify-content: center;
 }
 
 .random{
-    background-color: lightblue;
-    width: 140px;
+    height: 156px;
+    width: 156px;
+    border-radius: 10px;
+    margin-right: 40px;
 }
 
 
