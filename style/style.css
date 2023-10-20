@@ -44,7 +44,7 @@ li{
     color: #f9faf8;
 }
 
-.background-upper{
+.background-upper, .footer{
     background-color: #1f2937;
 }
 
@@ -163,6 +163,13 @@ li{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
 }
 
 
