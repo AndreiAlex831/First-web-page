@@ -124,19 +124,18 @@ li{
 }
 
 .call-box{
-    height: 150px;
-    width: 1000px;
     background-color: #3882f6;
     border-radius: 10px;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
-    margin: 200px;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 1000px;
 }
 
 .button-sign-call{
+    margin: 0;
     background-color: #3882f6;
     color: white;
     border-radius: 8px;
@@ -147,14 +146,22 @@ li{
 }
 
 .call-text{
+    margin: 0;
     color: white;
     font-size: 25px;
     font-weight: bold;
 }
 
 .sign-text{
+    margin: 0;
     color: white;
 }
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
 
 
 
