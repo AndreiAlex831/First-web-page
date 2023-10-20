@@ -12,6 +12,7 @@ li{
 }
 
 .header{
+    margin-right: 140px;
     display: flex;
     justify-content: space-around;
 }
@@ -171,8 +172,4 @@ li{
     align-items: center;
     height: 70px;
 }
-
-
-
-
 
