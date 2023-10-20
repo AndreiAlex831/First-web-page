@@ -127,15 +127,16 @@ li{
     background-color: #3882f6;
     border-radius: 10px;
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
-    height: 100px;
-    width: 1000px;
+    align-content: space-evenly;
+    flex-wrap: wrap;
+    height: 150px;
+    width: 900px;
 }
 
 .button-sign-call{
-    margin: 0;
+
     background-color: #3882f6;
     color: white;
     border-radius: 8px;
@@ -146,20 +147,22 @@ li{
 }
 
 .call-text{
-    margin: 0;
+    margin-bottom: -10px;
     color: white;
     font-size: 25px;
     font-weight: bold;
 }
 
 .sign-text{
-    margin: 0;
+    margin-bottom: 40px;
     color: white;
 }
 
 .box{
+    height: 300px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 
