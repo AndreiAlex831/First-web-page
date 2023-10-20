@@ -12,12 +12,13 @@ li{
 }
 
 .header{
-    margin-right: 140px;
+    margin-right: 130px;
     display: flex;
     justify-content: space-around;
 }
 
 .header-logo{
+    margin-left: 14px;
     height: 80px;
     width: 180px;
     color: #f9faf8;
